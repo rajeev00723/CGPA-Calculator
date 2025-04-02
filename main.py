@@ -95,4 +95,4 @@ if st.button("Calculate"):
     )
 
 
-st.markdown("Made with ❤️ by [Siddhesh Agarwal](https://github.com/Siddhesh-Agarwal)")
+st.markdown("Made with ❤️ by [Rajeev Sinha](https://github.com/rajeev00723)")
